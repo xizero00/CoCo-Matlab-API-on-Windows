@@ -1,29 +1,15 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+images/
+annotations/
+results/
+external/
+.DS_Store
 
-# Precompiled Headers
-*.gch
-*.pch
+MatlabAPI/analyze*/
+MatlabAPI/visualize*/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+PythonAPI/pycocotools/__init__.pyc
+PythonAPI/pycocotools/_mask.c
+PythonAPI/pycocotools/_mask.so
+PythonAPI/pycocotools/coco.pyc
+PythonAPI/pycocotools/cocoeval.pyc
+PythonAPI/pycocotools/mask.pyc
