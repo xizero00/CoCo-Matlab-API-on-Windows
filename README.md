@@ -4,7 +4,7 @@ This repo adds support of the CoCo matlab binding on windows.
 ## Requirments
 0. You have to install the vs2015 to support C99 standard while compiling the gason library on windows
 0. You have to set the default c++ and c compiler to vc2015, use mex -setup
-0. Download the coco dataset
+0. Download the coco dataset http://mscoco.org/dataset/#download
 
 ## Compiling cocoapi on windows
 
